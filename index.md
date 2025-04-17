@@ -5,3 +5,6 @@ Chicken Jockey!
 varName = "Hello World"
 print(varName)
 ```
+- [ ] Be a professional at git.
+- [x] Be good at programming.
+- [ ] Join a community.
